@@ -77,7 +77,7 @@ Example Playbook
 License
 -------
 
-BSD
+GLPI
 
 Author Information
 ------------------
